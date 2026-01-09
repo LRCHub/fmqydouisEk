@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Whole of Flower",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-01-09T13:39:42.426420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whole of Flower",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/01_Whole_of_Flower_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Whole of the Law",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/02_The_Whole_of_the_Law_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Whole Of The Moon",
+      "artist": "Kirin J Callinan",
+      "has_synced": true,
+      "path": "select/03_The_Whole_Of_The_Moon_Kirin_J_Callinan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Whole of the Moon",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/04_The_Whole_of_the_Moon_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "0646 - The Waterboys - The Whole of the Moon",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/05_0646_-_The_Waterboys_-_The_Whole_of_the_Moon_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Whole of the Night",
+      "artist": "World Party",
+      "has_synced": false,
+      "path": "select/06_The_Whole_of_the_Night_World_Party.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Whole Of The Moon",
+      "artist": "Mandy Moore",
+      "has_synced": true,
+      "path": "select/07_The_Whole_Of_The_Moon_Mandy_Moore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whole Of The Moon",
+      "artist": "Mandy Moore",
+      "has_synced": true,
+      "path": "select/08_Whole_Of_The_Moon_Mandy_Moore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Whole Of The Moon",
+      "artist": "Jennifer Warnes",
+      "has_synced": false,
+      "path": "select/09_The_Whole_Of_The_Moon_Jennifer_Warnes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Whole of the Moon - 2004 Remaster",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/10_The_Whole_of_the_Moon_-_2004_Remaster_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Whole of the Moon",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/11_The_Whole_of_the_Moon_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Whole of the Moon (2004 Remaster)",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/12_The_Whole_of_the_Moon_(2004_Remaster)_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "tHe Whole Of The Moon",
+      "artist": "The Waterboys & Mike Scott",
+      "has_synced": true,
+      "path": "select/13_tHe_Whole_Of_The_Moon_The_Waterboys_&_Mike_Scott.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Whole Of The World Is Quiet",
+      "artist": "Del Amitri",
+      "has_synced": true,
+      "path": "select/14_The_Whole_Of_The_World_Is_Quiet_Del_Amitri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Whole of the Law Loops",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/15_The_Whole_of_the_Law_Loops_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whole of Flower",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_Whole_of_Flower_Suchmos.txt"
+    }
+  ]
+}
